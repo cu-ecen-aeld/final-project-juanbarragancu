@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Overview**
 
 For my project, I will be creating a user-space application that will connect to a sensor, poll readings, and save the data to a csv file. I will be developing a device driver that will connect to the sensor, 
@@ -41,3 +42,4 @@ Sensor data logging application and device driver code will be hosted in in a re
 **Schedule Page**
 
 https://github.com/users/juanbarragancu/projects/3/views/1
+
