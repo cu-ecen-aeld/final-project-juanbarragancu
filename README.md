@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Overview**
 
 For my project, I will be creating a user-space application that will connect to a sensor, poll readings, and save the data to a csv file. I will be developing a device driver that will connect to the sensor, 
