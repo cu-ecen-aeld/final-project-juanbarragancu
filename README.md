@@ -15,7 +15,8 @@ I will be using Buildroot to build my OS.
 
 **Hardware Platform**
 
-I will be using a Raspberry Pi 4 B.
+I will be using a Raspberry Pi 4 B and a BME280 sensor to log the environmental data.
+BME280: https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf
 
 **Open Source Projects Used**
 
