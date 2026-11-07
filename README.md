@@ -28,7 +28,7 @@ I will not be using any previous assignment content.
 
 **New Content**
 
-I’m going to create an I2C driver, which we have not talked about before in class.
+I’m going to create an I2C driver, which we have not talked about before in class. The I2C driver will handle the communication between the sensor and the Raspberry Pi
 
 **Shared Material**
 
