@@ -15,7 +15,8 @@ I will be using Buildroot to build my OS.
 
 **Hardware Platform**
 
-I will be using a Raspberry Pi 4 B.
+I will be using a Raspberry Pi 4 B and a BME280 sensor to log the environmental data.
+BME280: https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf
 
 **Open Source Projects Used**
 
@@ -27,7 +28,7 @@ I will not be using any previous assignment content.
 
 **New Content**
 
-I’m going to create an I2C driver, which we have not talked about before in class.
+I’m going to create an I2C driver, which we have not talked about before in class. The I2C driver will handle the communication between the sensor and the Raspberry Pi
 
 **Shared Material**
 
